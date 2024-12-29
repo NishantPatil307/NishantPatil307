@@ -20,8 +20,7 @@
   - **GitHub**: [https://github.com/NishantPatil307](https://github.com/NishantPatil307)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pN8_k1eARvUAaaX9IBRuNdnZe0inc8Lz/view?usp=sharing)
-
-With 1.3+ years of experience as a Full Stack Developer, I specialize in backend technologies like Node.js and Express.js, frontend development with React.js, and cloud deployment on AWS. I've worked on large-scale, high-performance applications, integrating technologies such as Redis for caching and Socket.io for real-time data updates.
+  - With 1.3+ years of experience as a Full Stack Developer, I specialize in backend technologies like Node.js and Express.js, frontend development with React.js, and cloud deployment on AWS. I've worked on large-scale, high-performance applications, integrating technologies such as Redis for caching and Socket.io for real-time data updates.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
